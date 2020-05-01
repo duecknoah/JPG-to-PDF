@@ -1,7 +1,7 @@
 # JPG-to-PDF
 Simple Python script to convert a set of images to PDF and combine them into one single PDF file within seconds.
 <br /><br />
-![screenshot_1](https://user-images.githubusercontent.com/29803330/46648492-f338c000-cbb2-11e8-908d-05928f285720.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/19723275/80770427-26300500-8b05-11ea-9c5d-04e3fde95b58.png)
 
 ## Usage
 The script only takes two inputs as arguments.
